@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbbiS03
 - 👀 I’m interested in learning to code anything. I am learning what I can when I can.
 - 🌱 I’m currently learning web development on The Odin Project
-- 💞️ I’m looking to collaborate on not sure yet. Possibly question I have as I learn.
+- 💞️ I’m looking to collaborate on not sure yet. Possibly questions I have as I learn.
 - 📫 How to reach me I am on the TOP Discord server! My Discord username is Abbi#5466.
 
 <!---
